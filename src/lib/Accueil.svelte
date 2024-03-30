@@ -12,7 +12,7 @@
   </p>
 
   <p class="read-the-docs">
-    This site is in building process, please visit it in few days.
+    My contact is always available at the bottom right of the page.
   </p>
 
   <style>
