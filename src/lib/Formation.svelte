@@ -54,7 +54,7 @@
         color: #2d2d2d;
     }
     .subsequence-tsp {
-        background-image: url(fond_tsp.jpg);
+        background-image: url("../assets/fond_tsp.jpg");
         background-repeat: no-repeat;
         background-color: #b7b7b1;
         background-position:center;
@@ -71,7 +71,7 @@
         transform: scale(1.005);
     }
     .subsequence-prepa {
-        background-image: url(fond_prepa.png);
+        background-image: url("../assets/fond_prepa.png");
         background-repeat: no-repeat;
         background-color: #b7b7b1;
         background-position:center;
@@ -88,7 +88,7 @@
         transform: scale(1.005);
     }
     .subsequence-nativite {
-        background-image: url(fond_nativite.jpg);
+        background-image: url("../assets/fond_nativite.jpg");
         background-repeat: no-repeat;
         background-color: #b7b7b1;
         background-position:center;

@@ -65,7 +65,7 @@
         color: #2d2d2d;
     }
     .subsequence-eliophot {
-        background-image: url(fond_eliophot.jpg);
+        background-image: url("../assets/fond_eliophot.jpg");
         background-repeat: no-repeat;
         background-color: #a5afb8;
         background-position:center;
@@ -82,7 +82,7 @@
         transform: scale(1.005);
     }
     .subsequence-neuroservice {
-        background-image: url(fond_neuro.jpg);
+        background-image: url("../assets/fond_neuro.jpg");
         background-repeat: no-repeat;
         background-color: #b7b7b1;
         background-position:center;
@@ -99,7 +99,7 @@
         transform: scale(1.005);
     }
     .subsequence-auto {
-        background-image: url(fond_tutoring.jpg);
+        background-image: url("../assets/fond_tutoring.jpg");
         background-repeat: no-repeat;
         background-color: #b7b7b1;
         background-position:center;
@@ -117,7 +117,7 @@
     }
 
     .subsequence-zoo {
-        background-image: url(fond_zoo.jpg);
+        background-image: url("../assets/fond_zoo.jpg");
         background-repeat: no-repeat;
         background-color: #b7b7b1;
         background-position:center;

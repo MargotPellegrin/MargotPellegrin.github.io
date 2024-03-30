@@ -191,7 +191,7 @@
         margin-top: 3.5em;
     }
     .subsequence-Laelith {
-        background-image: url(fond_laelith.png);
+        background-image: url("../assets/fond_laelith.png");
         background-repeat: no-repeat;
         background-color: #a5afb8;
         background-position:center;
@@ -208,7 +208,7 @@
         transform: scale(1.005);
     }
     .subsequence-Jam {
-        background-image: url(fond_gamejam.png);
+        background-image: url("../assets/fond_gamejam.png");
         background-repeat: no-repeat;
         background-color: #a5afb8;
         background-position:center;
@@ -225,7 +225,7 @@
         transform: scale(1.005);
     }
     .subsequence-Cassiopee {
-        background-image: url(fond_cassiopee.jpg);
+        background-image: url("../assets/fond_cassiopee.jpg");
         background-repeat: no-repeat;
         background-color: #a5afb8;
         background-position:center;
@@ -242,7 +242,7 @@
         transform: scale(1.005);
     }
     .subsequence-Plateformer {
-        background-image: url(fond_plateformer.png);
+        background-image: url("../assets/fond_plateformer.png");
         background-repeat: no-repeat;
         background-color: #a5afb8;
         background-position:center;
@@ -259,7 +259,7 @@
         transform: scale(1.005);
     }
     .subsequence-Tblox {
-        background-image: url(fond_tblox.png);
+        background-image: url("../assets/fond_tblox.png");
         background-repeat: no-repeat;
         background-color: #a5afb8;
         background-position:center;
@@ -276,7 +276,7 @@
         transform: scale(1.005);
     }
     .subsequence-Blender {
-        background-image: url(fond_blender.jpg);
+        background-image: url("../assets/fond_blender.jpg");
         background-repeat: no-repeat;
         background-color: #a5afb8;
         background-position:center;
@@ -293,7 +293,7 @@
         transform: scale(1.005);
     }
     .subsequence-MMmeCpp {
-        background-image: url(fond_MMmeCpp.jpg);
+        background-image: url("../assets/fond_MMmeCpp.jpg");
         background-repeat: no-repeat;
         background-color: #a5afb8;
         background-position:center;
@@ -310,7 +310,7 @@
         transform: scale(1.005);
     }
     .subsequence-Rendu {
-        background-image: url(fond_rendu.png);
+        background-image: url("../assets/fond_rendu.png");
         background-repeat: no-repeat;
         background-color: #a5afb8;
         background-position:center;
@@ -327,7 +327,7 @@
         transform: scale(1.005);
     }
     .subsequence-Arduino {
-        background-image: url(fond_arduino.jpg);
+        background-image: url("../assets/fond_arduino.jpg");
         background-repeat: no-repeat;
         background-color: #a5afb8;
         background-position:center;
@@ -344,7 +344,7 @@
         transform: scale(1.005);
     }
     .subsequence-Warbot {
-        background-image: url(fond_warbot.png);
+        background-image: url("../assets/fond_warbot.png");
         background-repeat: no-repeat;
         background-color: #a5afb8;
         background-position:center;
@@ -361,7 +361,7 @@
         transform: scale(1.005);
     }
     .subsequence-TodoApp {
-        background-image: url(fond_todo.jpg);
+        background-image: url("../assets/fond_todo.jpg");
         background-repeat: no-repeat;
         background-color: #a5afb8;
         background-position:center;
@@ -378,7 +378,7 @@
         transform: scale(1.005);
     }
     .subsequence-Reversint {
-        background-image: url(fond_reversint.png);
+        background-image: url("../assets/fond_reversint.png");
         background-repeat: no-repeat;
         background-color: #a5afb8;
         background-position:center;
@@ -395,7 +395,7 @@
         transform: scale(1.005);
     }
     .subsequence-Gate {
-        background-image: url(fond_gate.jpg);
+        background-image: url("../assets/fond_gate.jpg");
         background-repeat: no-repeat;
         background-color: #a5afb8;
         background-position:center;

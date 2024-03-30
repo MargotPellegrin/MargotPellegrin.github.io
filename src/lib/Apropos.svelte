@@ -64,7 +64,7 @@
         color: #2d2d2d;
     }
     .subsequence-judo {
-        background-image: url(fond_judo.jpg);
+        background-image: url("../assets/fond_judo.jpg");
         background-repeat: no-repeat;
         background-color: #a5afb8;
         background-position:center;
@@ -81,7 +81,7 @@
         transform: scale(1.005);
     }
     .subsequence-volley {
-        background-image: url(fond_volley.png);
+        background-image: url("../assets/fond_volley.png");
         background-repeat: no-repeat;
         background-color: #b7b7b1;
         background-position:center;
@@ -98,7 +98,7 @@
         transform: scale(1.005);
     }
     .subsequence-guitare {
-        background-image: url(fond_guitare.jpg);
+        background-image: url("../assets/fond_guitare.jpg");
         background-repeat: no-repeat;
         background-color: #b7b7b1;
         background-position:center;
@@ -116,7 +116,7 @@
     }
 
     .subsequence-dessin {
-        background-image: url(fond_dessin.jpg);
+        background-image: url("../assets/fond_dessin.jpg");
         background-repeat: no-repeat;
         background-color: #b7b7b1;
         background-position:center;
@@ -134,7 +134,7 @@
     }
 
     .subsequence-poterie {
-        background-image: url(fond_poterie.jpg);
+        background-image: url("../assets/fond_poterie.jpg");
         background-repeat: no-repeat;
         background-color: #b7b7b1;
         background-position:center;
