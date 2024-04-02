@@ -23,6 +23,7 @@ import im23 from '../../../public/Unijam_images/im17bis.png'
 import im18 from '../../../public/Unijam_images/im18.png'
 import im24 from '../../../public/Unijam_images/im18bis.png'
 import im19 from '../../../public/Unijam_images/im19.png'
+import github from '../../../public/github.png'
 
 import { onMount } from 'svelte';
 
@@ -71,6 +72,12 @@ function nextSlide() {
 
 <div class="tryit">
     <h2>You can try it <a href="https://szakon.itch.io/color">here</a></h2>
+    <iframe src="https://itch.io/embed/2386540" width="552" height="167" frameborder="0"><a href="https://szakon.itch.io/color">Save the Color by szakon, Snibaw</a></iframe>
+</div>
+
+<div class="github">
+    <a href="https://github.com/Snibaw/UniJam" target="_blank"><img class="logo" src={github} width="70px" height="70px" alt="github logo"/></a>
+    <p>You can see the code for the game <a href="https://github.com/Snibaw/UniJam" target="_blank">here</a></p>
 </div>
 
 <div class="mypart">

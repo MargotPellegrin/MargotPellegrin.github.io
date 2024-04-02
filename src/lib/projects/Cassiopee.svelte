@@ -1,5 +1,6 @@
 <script>
     import CR from '../../../public/Wattfor_CR.pdf'
+    import github from '../../../public/github.png'
 </script>
     
     <div class="title">
@@ -13,6 +14,7 @@
     </div>
     
     <div class="github">
+        <a href="https://github.com/mathcoutant/Wattfor" target="_blank"><img class="logo" src={github} width="70px" height="70px" alt="github logo"/></a>
         <p>You can see the code for the simulation <a href="https://github.com/mathcoutant/Wattfor">here</a></p>
     </div>
     

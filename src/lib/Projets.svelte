@@ -141,7 +141,7 @@
 
 <div class="subsequence-Reversint">
     <button on:click={ () => selectProject("Reversint")}>
-        <h1>Revers'int</h1>
+        <h1>Revers'INT</h1>
         <p>Reversi game in Java</p>
     </button>
 </div>
