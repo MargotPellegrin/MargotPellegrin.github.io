@@ -1,5 +1,6 @@
 <script>
     export let selectedItem = null;
+    import logo from '../../public/logo_renard.png'
 
     let isMenuOpen = false;
 
@@ -36,6 +37,9 @@
         color: white;
         font-size: 24px;
         font-weight: bold;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
     }
 
     .navbar-menu {
@@ -82,11 +86,18 @@
         border-color: #333;
         transform: scale(1.05);
     }
-
+    .logo{
+        width: 45px;
+        height: 43px;
+        margin-top: 7px;
+    }
 </style>
 
 <div class="navbar">
-    <div class="navbar-logo"><button class="navbar-logo-button" on:click={() => { selectItem(null); closeMenu(); }}>Portfolio</button></div>
+    <div class="navbar-logo">
+        <div><img src={logo} alt="logo" class="logo"/></div>
+        <div><button class="navbar-logo-button" on:click={() => { selectItem(null); closeMenu(); }}>Portfolio</button></div>
+    </div>
     <div class="navbar-menu">
         <button class="navbar-menu-button" on:click={toggleMenu}>
             {#if !isMenuOpen}

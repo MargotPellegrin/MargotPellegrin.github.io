@@ -16,7 +16,9 @@
     let selectedProject = null;
 
     function selectProject(project) {
+        
         selectedProject = project;
+        window.scrollTo(0, 0);
     }
 </script>
 

@@ -12,20 +12,21 @@
 
 <Menu bind:selectedItem={selectedItemApp}/>
 <main>
-
-  {#if item === 'Apropos'}
-    <APropos/>
-  {:else if item === 'Experience'}
-    <Experience/>
-  {:else if item === 'Formation'}
-    <Formation/>
-  {:else if item === 'Projets'}
-    <Projets/>
-  {:else}
-    <Accueil/>
-  {/if}
-
-
+  
+  <div>
+    {#if item === 'Apropos'}
+      <APropos/>
+    {:else if item === 'Experience'}
+      <Experience/>
+    {:else if item === 'Formation'}
+      <Formation/>
+    {:else if item === 'Projets'}
+      <Projets/>
+    {:else}
+      <Accueil/>
+    {/if}
+  </div>
+  
 
 </main>
 <Coordonnees/>
